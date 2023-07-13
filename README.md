@@ -1,4 +1,4 @@
-![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=cfht4qs3iojc73anm5mg&custom_title=Francesc%20Holly%20%40%20Pullpo&custom_subtitle=Cofounder%20%26%20CTO&show_icons=true&disable_animations=false&title_color=ffcc00&text_color=8080ff&icon_color=ff1aff&ring_color=8080ff&bg_color=141439&image_url=https%3A%2F%2Flh3.googleusercontent.com%2Fu%2F1%2Fdrive-viewer%2FAITFw-zuVrfjr9pKtrOoaj7k3Ss-FL86JhYrkn-ClXhNMt84XICt27AFwB9FCIIt80d_Ib2T06h4IB513SwT_FRCa1Ny_zkydQ%3Dw1920-h918)
+[![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=cfht4qs3iojc73anm5mg&custom_title=Francesc%20Holly%20%40%20Pullpo&custom_subtitle=Cofounder%26%20CTO&show_icons=true&disable_animations=false&title_color=ffcc00&text_color=8080ff&icon_color=ff1aff&ring_color=8080ff&bg_color=0,141439,570000&image_url=https%3A%2F%2Flh3.googleusercontent.com%2Fu%2F1%2Fdrive-viewer%2FAITFw-zuVrfjr9pKtrOoaj7k3Ss-FL86JhYrkn-ClXhNMt84XICt27AFwB9FCIIt80d_Ib2T06h4IB513SwT_FRCa1Ny_zkydQ%3Dw1920-h918)](http://localhost/products/devcard)
 
 <!--
 **CescHolly/CescHolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
