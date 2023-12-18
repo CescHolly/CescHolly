@@ -1,6 +1,6 @@
 ## Check out my contributions to [@pullpo-io](https://github.com/pullpo-io)
 
-[![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=cfht4qs3iojc73anm5mg&custom_title=Francesc%20Holly%20%40%20Pullpo&custom_subtitle=Cofounder%20%26%20CTO&show_icons=true&disable_animations=false&title_color=e9b207&text_color=80c8ff&icon_color=ec4794&ring_color=80c8ff&bg_color=0,141439,850000&image_url=https%3A%2F%2Fraw.githubusercontent.com%2FCescHolly%2FCescHolly%2Fmain%2Flogo.png)](https://pullpo.io/products/devcard)
+[![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=cfht4qs3iojc73anm5mg&custom_title=Francesc%20Holly%20%40%20Pullpo&custom_subtitle=Founder%20%26%20CTO&show_icons=true&disable_animations=false&title_color=e9b207&text_color=80c8ff&icon_color=ec4794&ring_color=80c8ff&bg_color=0,141439,850000&image_url=https%3A%2F%2Fraw.githubusercontent.com%2FCescHolly%2FCescHolly%2Fmain%2Flogo.png)](https://pullpo.io/products/devcard)
 
 
 If you want to show your contributions to a private organization like me, click on the card and follow the instructions, it's super easy and customizable ;)
